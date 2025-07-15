@@ -1,1 +1,1 @@
-実行にはPython、Kivy(pipも必須)が必須となります。
+使用にはPython、Kivy(pipも必須)が必須となります。(現時点では)
